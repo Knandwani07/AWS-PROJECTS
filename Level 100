@@ -1,33 +1,30 @@
 # 🟢 Level 100 - Beginner AWS Projects
 
-## 🌥️ AWS Project Spotlight: Creating a Linux Instance with Basic Command Execution! 🖥️  
-### Overview  
-In this project, you'll learn how to launch a Linux instance on AWS using EC2 and execute basic Linux commands.  
+## 🍔 AWS Project Spotlight: Creating a Linux Instance with Basic Command Execution! 📟
 
-### Key Concepts  
-- Creating an EC2 instance  
-- Connecting via SSH  
-- Running basic Linux commands  
+### Overview
+In this project, you'll learn how to launch a Linux instance on AWS using EC2 and execute basic Linux commands.
 
-### AWS Services Used  
-✅ Amazon EC2  
-✅ AWS Key Pair  
-✅ Security Groups  
+- Running basic Linux commands
+
+### AWS Services Used
+- ✅ **Amazon EC2**
+- ✅ **AWS Key Pair**
+- ✅ **Security Groups**
 
 ---
 
-## 🎭 IAM: The Master Key that Unlocks Cloud Kingdoms and Banishes Digital Intruders! 🗝️  
-### Overview  
-This project introduces AWS IAM (Identity and Access Management), helping you control access to AWS services securely.  
+## 🏆 IAM: The Master Key that Unlocks Cloud Kingdoms and Banishes Digital Intruders! 🔑
 
-### Key Concepts  
-- Creating IAM Users & Groups  
-- Assigning Policies & Permissions  
-- Understanding IAM Best Practices  
+### Overview
+This project introduces **AWS IAM** (Identity and Access Management), helping you control access to AWS services securely.
 
-### AWS Services Used  
-✅ AWS IAM  
+### Key Concepts
+- 🔹 Creating IAM Users & Groups  
+- 🔹 Assigning Policies & Permissions  
+- 🔹 Understanding IAM Best Practices  
+
+### AWS Services Used
+- ✅ **AWS IAM**
 
 ---
-
-🔰 These projects are perfect for beginners stepping into the AWS cloud! Keep building! 🚀
