@@ -1,0 +1,33 @@
+# Level 100 - Beginner AWS Projects 🟢  
+
+## 1️⃣ Creating a Linux Instance with Basic Command Execution 🖥️  
+### Overview  
+This project guides you through launching a Linux instance on AWS EC2 and executing basic commands.  
+
+### Key Concepts:  
+- Setting up an EC2 instance  
+- Connecting to the instance using SSH  
+- Running basic Linux commands  
+
+### AWS Services Used:  
+- Amazon EC2  
+- Key Pair  
+- Security Groups  
+
+---
+
+## 2️⃣ IAM: Managing Access and Security in AWS 🗝️  
+### Overview  
+Learn how to use AWS IAM (Identity and Access Management) to control and secure access to AWS services.  
+
+### Key Concepts:  
+- Creating IAM Users and Groups  
+- Assigning Policies and Permissions  
+- Understanding IAM Security Best Practices  
+
+### AWS Services Used:  
+- AWS IAM  
+
+---
+
+These projects are a great starting point for beginners looking to explore AWS! 🚀
